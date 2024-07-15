@@ -1,0 +1,56 @@
+*{
+  background-color: whitesmoke;
+}
+.header{
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+.king{
+  height: 100vh;
+  width: 20.8vw;
+  margin-left: 40vw;
+}
+button{
+  background-color: rgb(131, 131, 208);
+  height: 40px;
+  width: 356px;
+  color: aliceblue;
+  border: 0cap;
+}
+input{
+  height: 40px;
+  width: 356px;
+  padding: 10px; 
+  border: 0.03px solid black;
+  margin-bottom: 20px;
+}
+.newera{
+  margin-top: 30px;
+}
+.inex{
+  display: flex;
+  justify-content: space-around;
+  width: 356px;
+  height: 90px;
+  background-color: white;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.kkk{
+  margin: 15px;
+  background-color: white;
+}
+.kk{
+  background-color: white;
+  text-align: center;
+}
+p{
+  font-weight: bold;
+}
+.op{
+  background-color: tomato;
+}
+.po{
+  background-color: blue;
+}
