@@ -3,14 +3,14 @@
 }
 .header{
   text-align: center;
-  margin-top: 80px;
+  margin-top: 30px;
   margin-bottom: 40px;
   
 }
 .king{
   height: 100vh;
   width: 356px;
-  margin: auto;
+  margin:auto;
 }
 button{
   background-color: rgb(131, 131, 208);
